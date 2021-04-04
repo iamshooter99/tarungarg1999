@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tarun Garg
 - 👀 I’m interested in Cyber Security & Penetration Testing
-- 🌱 I’m currently learning various things like
+- 🌱 I’m currently learning various things like Bug Hunting,RE,etc
 - 💞️ I’m looking to collaborate on cyber security projects including forensics, exploitation tools,etc
 - 📫 How to reach me --
           Linkedin -https://www.linkedin.com/in/tarun-garg-892807165/
